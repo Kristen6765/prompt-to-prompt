@@ -1,5 +1,6 @@
-diffusers==0.8.1
+diffusers==0.2.4
 transformers
+scipy
 ftfy
 opencv-python
-ipywidgets
+ipywidgets>=7,<8
